@@ -1,6 +1,5 @@
-"use strict";
-
 $(function() {
+    "use strict";
 
     var countFilledFields = 0,
         isPlayerWon = false,
